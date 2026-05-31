@@ -1,0 +1,28 @@
+Assignment 1 - Data Cleaning using Pandas
+What I did
+ ->Loaded the dataset (Combined_dataset.csv) using Pandas.
+ ->Checked the first and last few rows to understand the data.
+ ->Checked the number of rows and columns.
+ ->Viewed column names and data types.
+ ->Checked for missing values in the dataset.
+ ->Filled missing values in some columns with default values.
+Missing Value Handling
+ ->Replaced missing discount values with 0.0.
+ ->Replaced missing customer reviews with No Review.
+ ->Replaced missing seller names with Unknown Seller.
+ ->Replaced missing video information with a blank value.
+ ->Replaced missing seller information with Not Available.
+ ->Replaced missing variations with Not Variations.
+Data Validation
+ ->Kept only records where rating is between 0 and 5.
+ ->Kept only records where discount is between 0 and 100.
+ ->Removed records having negative ratings count.
+ ->Removed rows where the product title was empty.
+Duplicate Check
+ ->Checked the dataset for duplicate records.
+ ->Printed the total number of duplicate rows found.
+Feature Creation
+ ->Calculated the actual final price using initial price and discount.
+ ->Added the result as a new column called actual_final_price.
+Output
+ ->Saved the cleaned dataset into a new file named cleaned_CSV.csv.
