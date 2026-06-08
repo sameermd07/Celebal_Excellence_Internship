@@ -1,0 +1,95 @@
+# E-Commerce Sales Data Analysis using SQL
+
+The dataset contains information about orders, customers, products, regions, sales, and quantities sold.
+
+## Objectives
+
+The main objectives of this project were:
+
+- Load the sales dataset into a SQL database.
+- Explore the table structure and sample records.
+- Apply filters using the WHERE clause.
+- Perform aggregations using GROUP BY.
+- Identify top-performing products and categories.
+- Analyze customer and sales trends.
+- Detect duplicate records.
+- Validate data quality and completeness.
+
+## Dataset Information
+
+The dataset contains approximately 10,000 sales records and includes information such as:
+
+- Order Details
+- Customer Information
+- Product Information
+- Sales Amount
+- Quantity Sold
+- Region and Location Details
+
+## Steps Performed
+
+### 1. Dataset Loading
+
+The dataset was imported into Databricks and stored as a SQL table for analysis.
+
+### 2. Data Exploration
+
+The table schema was examined to understand available columns and data types. Sample records were viewed to become familiar with the dataset.
+
+### 3. Data Filtering
+
+Several filters were applied using the WHERE clause, including:
+
+- Orders from specific regions
+- Products belonging to specific categories
+- Orders from a particular year
+- High-value sales transactions
+
+### 4. Aggregation Analysis
+
+GROUP BY was used to calculate:
+
+- Total sales by category
+- Total quantity sold by category
+- Average sales by category
+
+### 5. Sorting and Ranking
+
+ORDER BY and LIMIT were used to identify:
+
+- Top-selling products
+- Top-performing categories
+
+### 6. Business Use Cases
+
+Real-world business questions were solved, including:
+
+- Monthly sales trends
+- Top revenue-generating customers
+- Duplicate record detection
+
+### 7. Data Validation
+
+Basic data quality checks were performed to:
+
+- Verify total row count
+- Check for missing values
+- Ensure dataset consistency
+
+## SQL Concepts Used
+
+The following SQL concepts were applied throughout the project:
+
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- LIMIT
+- Aggregate Functions (SUM, AVG, COUNT)
+- HAVING
+- DISTINCT
+
+## Tools Used
+
+- Databricks
+- SQL
