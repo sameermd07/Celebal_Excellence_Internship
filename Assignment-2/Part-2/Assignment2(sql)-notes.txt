@@ -1,0 +1,29 @@
+
+## What I have done
+
+- Created tables for customers, products, orders and order_items.
+- Added primary keys, foreign keys and constraints.
+- Inserted sample data into all tables.
+- Created indexes to improve searching speed.
+- Practiced basic SQL queries using SELECT and WHERE.
+- Used GROUP BY and aggregate functions like COUNT, SUM and AVG.
+- Worked with INNER JOIN and LEFT JOIN to combine tables.
+- Learned about primary keys, foreign keys and ACID properties.
+- Used CASE statements for categorizing data.
+- Wrote transaction queries using COMMIT and ROLLBACK.
+
+## SQL Concepts Used
+
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- HAVING
+- CASE
+- INNER JOIN
+- LEFT JOIN
+- Aggregate Functions
+- Primary Key and Foreign Key
+- Constraints
+- Indexes
+- Transactions
