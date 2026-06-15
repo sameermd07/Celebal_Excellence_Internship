@@ -1,0 +1,27 @@
+# Sales Data Analysis Using SQL
+
+* Loaded the dataset into Databricks.
+* Explored the table schema and viewed sample records.
+* Applied filters using WHERE to analyze data by region, category, and sales values.
+* Used GROUP BY with SUM and AVG to calculate total sales, quantity, and average profit.
+* Sorted the results and found top products and categories using ORDER BY and LIMIT.
+* Analyzed monthly sales trends using date functions.
+* Identified top customers based on total sales.
+* Checked for duplicate records using GROUP BY and HAVING.
+* Performed data validation by verifying row counts and checking data quality.
+* Derived insights from the results to understand sales patterns and customer behavior.
+
+### SQL Topics Used
+
+* SELECT
+* WHERE
+* GROUP BY
+* SUM()
+* AVG()
+* ORDER BY
+* LIMIT
+* YEAR()
+* MONTH()
+* HAVING
+* COUNT()
+* DISTINCT
