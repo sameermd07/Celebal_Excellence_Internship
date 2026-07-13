@@ -10,32 +10,6 @@ Implement incremental data processing using **Delta Lake MERGE** in **Databricks
 
 - **Sample - Superstore.csv** – Original Superstore dataset containing **9,994 records**.
 
----
-
-## Project Structure
-
-```
-week-7-assignment/
-│
-├── data/
-│   └── Sample - Superstore.csv
-│
-├── notebooks/
-│   └── delta_merge_assignment.ipynb
-│
-├── screenshots/
-│   ├── data_loading/
-│   ├── delta_table/
-│   ├── data_cleaning/
-│   ├── merge_operation/
-│   ├── validation/
-│   └── final_output/
-│
-└── README.md
-```
-
----
-
 ## What I Did
 
 ### 1. Loaded the Dataset
@@ -82,16 +56,6 @@ week-7-assignment/
 - Delta Lake
 - Unity Catalog
 - CSV Files
-
----
-
-## How to Run
-
-1. Upload **Sample - Superstore.csv** to Unity Catalog Volume.
-2. Import the notebook into Databricks.
-3. Attach a Spark cluster.
-4. Run all notebook cells in sequence.
-5. Capture the required screenshots.
 
 ---
 
