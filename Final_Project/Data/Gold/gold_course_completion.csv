@@ -1,0 +1,61 @@
+course_id,course_title,category,total_enrolments,completed_learners,completion_rate,completion_category
+CRS007,Business Analytics Essentials,Business,31,11,35.48,At Risk
+CRS052,Svelte & SvelteKit,Web Development,36,16,44.44,At Risk
+CRS002,Machine Learning Fundamentals,AI & ML,47,19,40.43,At Risk
+CRS004,React.js Complete Guide,Web Development,38,18,47.37,At Risk
+CRS056,NoSQL & MongoDB,Data Science,35,13,37.14,At Risk
+CRS049,Unity Game Development,Mobile Development,37,19,51.35,Moderate
+CRS018,Flutter App Development,Mobile Development,35,12,34.29,At Risk
+CRS040,TypeScript Advanced,Web Development,25,15,60.0,Moderate
+CRS026,Full Stack Django,Web Development,39,11,28.21,At Risk
+CRS028,Entrepreneurship 101,Business,40,16,40.0,At Risk
+CRS005,Node.js Backend Development,Web Development,39,16,41.03,At Risk
+CRS051,MLOps & Model Deployment,AI & ML,35,18,51.43,Moderate
+CRS047,Cloud Security Best Practices,Cybersecurity,31,11,35.48,At Risk
+CRS046,Terraform Infrastructure,Cloud Computing,26,10,38.46,At Risk
+CRS050,Scala for Big Data,Data Science,32,12,37.5,At Risk
+CRS059,Wearable App Development,Mobile Development,23,11,47.83,At Risk
+CRS006,HTML & CSS Mastery,Web Development,48,12,25.0,At Risk
+CRS015,Azure Data Engineering,Cloud Computing,28,12,42.86,At Risk
+CRS057,Microservices Architecture,Cloud Computing,35,11,31.43,At Risk
+CRS048,OSINT & Threat Intelligence,Cybersecurity,39,12,30.77,At Risk
+CRS055,Motion UI Design,Design,45,23,51.11,Moderate
+CRS043,Leadership & Communication,Business,35,12,34.29,At Risk
+CRS019,iOS Development with Swift,Mobile Development,30,16,53.33,Moderate
+CRS058,Zero Trust Security,Cybersecurity,27,10,37.04,At Risk
+CRS003,Deep Learning with TensorFlow,AI & ML,37,13,35.14,At Risk
+CRS014,Google Cloud Fundamentals,Cloud Computing,37,19,51.35,Moderate
+CRS036,Advanced Python OOP,Data Science,22,7,31.82,At Risk
+CRS008,Project Management Professional,Business,37,14,37.84,At Risk
+CRS009,Digital Marketing Strategy,Business,29,12,41.38,At Risk
+CRS020,SQL & Database Design,Data Science,33,17,51.52,Moderate
+CRS016,Ethical Hacking Basics,Cybersecurity,28,5,17.86,At Risk
+CRS029,Brand Identity Design,Design,27,10,37.04,At Risk
+CRS034,Android Development Kotlin,Mobile Development,23,15,65.22,Moderate
+CRS041,GraphQL APIs,Web Development,26,11,42.31,At Risk
+CRS042,Operations Management,Business,37,15,40.54,At Risk
+CRS030,3D Modelling with Blender,Design,30,11,36.67,At Risk
+CRS012,Motion Graphics & Animation,Design,32,11,34.38,At Risk
+CRS013,AWS Solutions Architect,Cloud Computing,37,12,32.43,At Risk
+CRS039,Transformer Models & LLMs,AI & ML,35,14,40.0,At Risk
+CRS037,Data Engineering with Spark,Data Science,33,11,33.33,At Risk
+CRS032,DevOps CI/CD Pipeline,Cloud Computing,33,9,27.27,At Risk
+CRS010,UI/UX Design Principles,Design,33,15,45.45,At Risk
+CRS025,Vue.js & Nuxt Development,Web Development,39,16,41.03,At Risk
+CRS054,Product Management,Business,33,15,45.45,At Risk
+CRS017,Network Security Essentials,Cybersecurity,37,12,32.43,At Risk
+CRS038,Reinforcement Learning,AI & ML,28,15,53.57,Moderate
+CRS022,Statistics for Data Science,Data Science,31,9,29.03,At Risk
+CRS044,Adobe Illustrator Mastery,Design,30,16,53.33,Moderate
+CRS027,Financial Modelling,Business,28,8,28.57,At Risk
+CRS024,Computer Vision,AI & ML,40,18,45.0,At Risk
+CRS023,NLP with Python,AI & ML,31,17,54.84,Moderate
+CRS011,Figma for Beginners,Design,23,13,56.52,Moderate
+CRS031,Docker & Kubernetes,Cloud Computing,35,17,48.57,At Risk
+CRS001,Python for Data Science,Data Science,31,17,54.84,Moderate
+CRS060,Bayesian Statistics,Data Science,40,18,45.0,At Risk
+CRS021,Power BI & Tableau,Data Science,34,13,38.24,At Risk
+CRS035,React Native Cross-Platform,Mobile Development,36,18,50.0,Moderate
+CRS033,Penetration Testing,Cybersecurity,30,13,43.33,At Risk
+CRS053,Supply Chain Management,Business,30,16,53.33,Moderate
+CRS045,Photography & Lightroom,Design,29,10,34.48,At Risk
